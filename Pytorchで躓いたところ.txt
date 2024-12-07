@@ -1,0 +1,4 @@
+１：jsonファイルがうまくダウンロードできない，もしくは壊れている
+
+https://github.com/raghakot/keras-vis/blob/master/resources/imagenet_class_index.json
+からダウンロードして実行することで解決
